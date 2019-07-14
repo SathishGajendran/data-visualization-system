@@ -1,0 +1,19 @@
+{
+  "name": "data-visualization-system",
+  "version": "1.0.0",
+  "description": "Data-visualization-system",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SathishGajendran/data-visualization-system.git"
+  },
+  "author": "Sathish G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SathishGajendran/data-visualization-system/issues"
+  },
+  "homepage": "https://github.com/SathishGajendran/data-visualization-system#readme"
+}
